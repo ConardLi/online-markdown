@@ -1,12 +1,13 @@
 .wrapper {
-  font-size: 16px;
+  font-size: 15px;
   font-family: Avenir, -apple-system-font, 微软雅黑, sans-serif;
 }
 .wrapper p {
-  font-size: 16px;
+  font-size: 15px;
   white-space: pre-line;
   line-height: 30px;
-  color: #4a4a4a;
+  color: #333;
+  font-family: serif;
 }
 .wrapper blockquote {
   line-height: 22px;
